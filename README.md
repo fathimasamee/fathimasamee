@@ -91,8 +91,17 @@ Skills: REACT / JS / HTML / CSS / BOOTSTRAP
 <p></p>
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fathimasamee&show_icons=true&locale=en" alt="samee" /></p>
+ <p style="margin-bottom: 20px;"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fathimasamee&show_icons=true&include_all_commits=true&count_private=true"/>
+    <br/>
+<!--      <br/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathimasamee&label=Profile%20views&color=0e75b6&style=flat" alt="samee" /> </p>
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fathimasamee&label=Profile%20views&color=0e75b6&style=flat" alt="samee" /> </p>
+
+
+
+
