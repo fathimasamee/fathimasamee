@@ -1,3 +1,9 @@
+<!-- ===== ANIMATED NAME BANNER ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Fathima%20Sameera&fontSize=54&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20SAP%20Analyst&descSize=18&descAlignY=60&animation=fadeIn&color=gradient&customColorList=12060B,5A0F26,800020,B0304F&fontColor=D9BC8A" />
+  <img width="100%" alt="Fathima Sameera" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Fathima%20Sameera&fontSize=54&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20SAP%20Analyst&descSize=18&descAlignY=60&animation=fadeIn&color=gradient&customColorList=800020,A3203F,C9405E,E8C9D1&fontColor=FBF6F2" />
+</picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fathimasamee/fathimasamee/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fathimasamee/fathimasamee/main/light.svg">
@@ -34,6 +40,19 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/fathimasamee/fathimasamee/main/divider.svg" alt="" />
 
+<!-- ===== TECH STACK ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=2000&color=A08288&center=true&vCenter=true&width=400&height=24&lines=%2F%2F+tech+stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=2000&color=8C6B72&center=true&vCenter=true&width=400&height=24&lines=%2F%2F+tech+stack" alt="Tech stack" />
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,python,django,java,spring,mysql,postgres,git,github,vercel&theme=dark&perline=15" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,python,django,java,spring,mysql,postgres,git,github,vercel&theme=light&perline=15" alt="Tech stack icons" />
+</picture>
+
+<img width="100%" src="https://raw.githubusercontent.com/fathimasamee/fathimasamee/main/divider.svg" alt="" />
+
 <!-- ===== CONTRIBUTION SNAKE ===== -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fathimasamee/fathimasamee/output/snake-dark.svg" />
@@ -56,3 +75,9 @@
 <!-- ===== END SOCIAL BADGES ===== -->
 
 </div>
+
+<!-- ===== ANIMATED FOOTER WAVE ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=12060B,5A0F26,800020,B0304F&animation=twinkling" />
+  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=FBF6F2,E8C9D1,B0304F,800020&animation=twinkling" />
+</picture>
