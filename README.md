@@ -48,18 +48,6 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/fathimasamee/fathimasamee/main/divider.svg" alt="" />
 
-<!-- ===== TECH STACK ===== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=2000&color=A08288&center=true&vCenter=true&width=400&height=24&lines=%2F%2F+tech+stack" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=2000&color=8C6B72&center=true&vCenter=true&width=400&height=24&lines=%2F%2F+tech+stack" alt="Tech stack" />
-</picture>
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,python,django,java,spring,mysql,postgres,git,github,vercel&theme=dark&perline=15" />
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,python,django,java,spring,mysql,postgres,git,github,vercel&theme=light&perline=15" alt="Tech stack icons" />
-</picture>
-
-<img width="100%" src="https://raw.githubusercontent.com/fathimasamee/fathimasamee/main/divider.svg" alt="" />
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
 <picture>
