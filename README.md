@@ -12,11 +12,19 @@
 
 <div align="center">
 
+
 <!-- Typing line -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=D9BC8A&center=true&vCenter=true&width=760&height=44&lines=SAP+Analyst+%C2%B7+Graduate+Trainee+at+HCLTech;Full-Stack+Developer+%C2%B7+React+%C2%B7+Django+%C2%B7+Spring+Boot;Crafting+clean%2C+considered+software;Building.+Learning.+Growing." />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=800020&center=true&vCenter=true&width=760&height=44&lines=SAP+Analyst+%C2%B7+Graduate+Trainee+at+HCLTech;Full-Stack+Developer+%C2%B7+React+%C2%B7+Django+%C2%B7+Spring+Boot;Crafting+clean%2C+considered+software;Building.+Learning.+Growing." alt="Typing intro" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=D9BC8A&center=true&vCenter=true&width=760&height=44&lines=SAP+Analyst+%C2%B7+Graduate+Trainee+%40+HCLTech;Full-Stack+Developer+%C2%B7+React+%C2%B7+Django+%C2%B7+Java;QA+Engineer+%C2%B7+Manual+%26+API+Testing"
+  />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=800020&center=true&vCenter=true&width=760&height=44&lines=SAP+Analyst+%C2%B7+Graduate+Trainee+%40+HCLTech;Full-Stack+Developer+%C2%B7+React+%C2%B7+Django+%C2%B7+Java;QA+Engineer+%C2%B7+Manual+%26+API+Testing"
+    alt="Typing intro"
+  />
 </picture>
+
 
 <img width="100%" src="https://raw.githubusercontent.com/fathimasamee/fathimasamee/main/divider.svg" alt="" />
 
