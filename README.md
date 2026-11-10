@@ -1,79 +1,58 @@
 <picture>
- <source media="(prefers-color-scheme: dark)"
- srcset="https://raw.githubusercontent.com/fathimasamee/fathimasamee/main/dark.svg">
- <source media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/fathimasamee/fathimasamee/main/light.svg">
- <img alt="Fathima Sameera" src="https://raw.githubusercontent.com/fathimasamee/fathimasamee/main/
-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fathimasamee/fathimasamee/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fathimasamee/fathimasamee/main/light.svg">
+  <img alt="Fathima Sameera" width="100%" src="https://raw.githubusercontent.com/fathimasamee/fathimasamee/main/light.svg">
 </picture>
-
-
-
-
 
 <div align="center">
 
+<!-- Typing line -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=D9BC8A&center=true&vCenter=true&width=760&height=44&lines=SAP+Analyst+%C2%B7+Graduate+Trainee+at+HCLTech;Full-Stack+Developer+%C2%B7+React+%C2%B7+Django+%C2%B7+Spring+Boot;Crafting+clean%2C+considered+software;Building.+Learning.+Growing." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=800020&center=true&vCenter=true&width=760&height=44&lines=SAP+Analyst+%C2%B7+Graduate+Trainee+at+HCLTech;Full-Stack+Developer+%C2%B7+React+%C2%B7+Django+%C2%B7+Spring+Boot;Crafting+clean%2C+considered+software;Building.+Learning.+Growing." alt="Typing intro" />
+</picture>
+
+<img width="100%" src="https://raw.githubusercontent.com/fathimasamee/fathimasamee/main/divider.svg" alt="" />
+
 <!-- Streak — full width -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=fathimasamee&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=fathimasamee&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Fathima's streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=fathimasamee&hide_border=true&background=12060B&stroke=B0304F&ring=D9BC8A&fire=C9405E&currStreakLabel=D9BC8A&sideLabels=A08288&currStreakNum=F4E8E2&sideNums=F4E8E2&dates=7A5A60&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=fathimasamee&hide_border=true&background=FBF6F2&stroke=800020&ring=B08D4A&fire=A3203F&currStreakLabel=800020&sideLabels=8C6B72&currStreakNum=2A0E16&sideNums=2A0E16&dates=8C6B72&card_width=1180" alt="Fathima's streak" />
 </picture>
 
 <br/>
 
-<!-- Stats + Top languages — side by side -->
+<!-- Stats + Top languages -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-ten-27.vercel.app/api?username=fathimasamee&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-delta-ten-27.vercel.app/api?username=fathimasamee&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Fathima's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-ten-27.vercel.app/api?username=fathimasamee&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=D9BC8A&icon_color=C9405E&text_color=C9B3B7&bg_color=12060B&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-delta-ten-27.vercel.app/api?username=fathimasamee&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=800020&icon_color=A3243F&text_color=2A0E16&bg_color=FBF6F2&card_width=500" alt="Fathima's GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-ten-27.vercel.app/api/top-langs/?username=fathimasamee&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-delta-ten-27.vercel.app/api/top-langs/?username=fathimasamee&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta-ten-27.vercel.app/api/top-langs/?username=fathimasamee&layout=compact&langs_count=8&hide_border=true&title_color=D9BC8A&text_color=C9B3B7&bg_color=12060B&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-delta-ten-27.vercel.app/api/top-langs/?username=fathimasamee&layout=compact&langs_count=8&hide_border=true&title_color=800020&text_color=2A0E16&bg_color=FBF6F2&card_width=500" alt="Top languages" />
 </picture>
 
-</div>
-
-
-
+<img width="100%" src="https://raw.githubusercontent.com/fathimasamee/fathimasamee/main/divider.svg" alt="" />
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fathimasamee/fathimasamee/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fathimasamee/fathimasamee/output/snake-light.svg" />
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/fathimasamee/fathimasamee/output/snake-light.svg" />
 </picture>
-
-</div>
-
 <!-- ===== END SNAKE ===== -->
-<br/>
-<br/>
-<div align="center">
+
+<br/><br/>
 <img width="100%" src="https://raw.githubusercontent.com/fathimasamee/fathimasamee/projects/projects.svg" alt="Projects" />
-</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/fathimasamee/fathimasamee/main/divider.svg" alt="" />
 
 <!-- ===== SOCIAL BADGES ===== -->
-<br/>
-<div align="center">
-
-<a href="https://www.linkedin.com/in/fathima-sameera">
-  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
-</a>
+<a href="https://www.linkedin.com/in/fathima-sameera"><img src="https://img.shields.io/badge/LinkedIn-12060B?style=for-the-badge&logo=linkedin&logoColor=D9BC8A&labelColor=12060B&color=8B1E3F" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
-
-<a href="https://fathimasamee.vercel.app/">
-   <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=10B981&labelColor=0A101F" alt="Portfolio" />
-</a>
+<a href="https://fathimasamee.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-12060B?style=for-the-badge&logo=vercel&logoColor=D9BC8A&labelColor=12060B&color=8B1E3F" alt="Portfolio" /></a>
 &nbsp;&nbsp;
-<a href="mailto:fathimasameera0610@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
-</a>
-&nbsp;&nbsp;
-</div>
-
+<a href="mailto:fathimasameera0610@gmail.com"><img src="https://img.shields.io/badge/Email-12060B?style=for-the-badge&logo=gmail&logoColor=D9BC8A&labelColor=12060B&color=8B1E3F" alt="Email" /></a>
 <!-- ===== END SOCIAL BADGES ===== -->
 
-
+</div>
