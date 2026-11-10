@@ -70,7 +70,7 @@
 <!-- ===== END SNAKE ===== -->
 
 <br/><br/>
-<img width="100%" src="https://raw.githubusercontent.com/fathimasamee/fathimasamee/projects.svg" alt="Projects" />
+<img width="100%" src="https://raw.githubusercontent.com/fathimasamee/fathimasamee/main/projects.svg" alt="Projects" />
 
 <img width="100%" src="https://raw.githubusercontent.com/fathimasamee/fathimasamee/main/divider.svg" alt="" />
 
